@@ -254,6 +254,6 @@ with engine.connect() as conn:
             print(f"  {row[1]} ({row[2]}) - {'PRIMARY KEY' if row[5] else 'NOT NULL' if row[3] else 'NULLABLE'}")
 
 print(f"\n✓ Database setup completed successfully!")
-print(f"✓ All tables created with proper relationships")
-print(f"✓ Data imported and verified")
+print(f"✓ All tables created with proper relationships.")
+print(f"✓ Data imported and verified..")
 
