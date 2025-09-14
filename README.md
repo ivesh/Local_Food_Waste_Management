@@ -72,27 +72,35 @@ Local_Food_Waste_Management/
 The application offers a user-friendly interface with comprehensive functionalities designed for all stakeholders in hospitality and food redistribution:
 
 - **Dashboard Overview**
+![alt text](<Screenshot 2025-09-14 162448.png>)
 - Key metrics including total providers, receivers, food items, and successful claims.
 - Interactive pie charts and bar charts visualizing claim statuses and food listings by city.
 
 - **Food Listings**
+![alt text](<Screenshot 2025-09-14 162507.png>)
 - Dynamic filtering by city, food type, and meal type.
 - View detailed listings with provider contact info for coordination.
 
 - **Claims Management**
+![alt text](<Screenshot 2025-09-14 162521.png>)
 - Submit new food claims via simple forms.
 - Update claim status (Pending, Completed, Cancelled).
 - View and manage all existing claims.
 
 - **Provider and Receiver Directory**
+![alt text](<Screenshot 2025-09-14 162547.png>)
 - Searchable listings categorized by type.
 - Easy access to contact information to facilitate coordination.
 
 - **Analytics**
+![alt text](<Screenshot 2025-09-14 162602.png>)
+![alt text](<Screenshot 2025-09-14 162637.png>)
 - Visualizations showing distribution of food types, meal types, wastage statistics, and provider contributions.
 - Insights from 15+ SQL analytical queries incorporated directly into the UI.
 
 - **Report Generation**
+![alt text](<Screenshot 2025-09-14 162654.png>)
+![alt text](<Screenshot 2025-09-14 162704.png>)
 - Generate food wastage and provider performance reports with one-click access.
 
 ---
